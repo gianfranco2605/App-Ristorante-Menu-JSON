@@ -1,0 +1,81 @@
+
+
+{
+  "platillos": [
+    {
+
+      "id": 1,
+      "nome": "Pizza a legna piccola",
+      "prezzo": 5,
+      "categoria": 1
+  },
+
+  {
+
+    "id": 2,
+    "nome": "Pizza a legna media",
+    "prezzo": 7,
+    "categoria": 1
+},
+    {
+      "id": 3,
+      "nome": "Tiramisu",
+      "prezzo": 5,
+      "categoria": 3
+    },
+    {
+      "id": 4,
+      "nome": "Cream caramel",
+      "prezzo": 5,
+      "categoria": 3
+    },
+    {
+      "id": 5,
+      "nome": "Spremuta",
+      "prezzo": 15,
+      "categoria": 2
+    },
+    {
+      "id": 6,
+      "nome": "Pizza a legna Grande",
+      "prezzo": 10,
+      "categoria": 1
+    },
+    {
+      "id": 7,
+      "nome": "Rib Eye 800g",
+      "prezzo": 25,
+      "categoria": 1
+    },
+    {
+      "id": 8,
+      "nome": "Spritz",
+      "prezzo": 7,
+      "categoria": 2
+    },
+    {
+      "id": 9,
+      "nome": "Tequila",
+      "prezzo": 6,
+      "categoria": 2
+    },
+    {
+      "id": 10,
+      "nome": "Tramezzino",
+      "prezzo": 3,
+      "categoria": 3
+    },
+    {
+      "id": 11,
+      "nome": "Caffé Americano",
+      "prezzo": 2,
+      "categoria": 2
+    },
+    {
+      "id": 12,
+      "nome": "Capuccino",
+      "prezzo": 2,
+      "categoria": 2
+    }
+  ]
+}
